@@ -6,9 +6,9 @@ banner() {
 printf "\e[1;92m   ░S░E░L░F░I░E░H░A░C░K░   \e[0m\n"
 printf "\e[1;92m   ░C░A░M░E░R░A░H░A░C░K░   \e[0m\n"
 printf "\e[1;92m   ░M░O░B░I░L░E░H░A░C░K░   \e[0m\n"
-printf "\e[1;92m    ░J░T░E░C░H░C░O░D░E░    \e[0m\n"
+printf "\e[1;92m    😎😎 ÇŔÀŹÝ 😎😎    \e[0m\n"
 
-printf "\e[1;77m  !This is Stritly For Education Purpose Only! \e[0m \n"
+printf "\e[1;77m  !Be carefull If your bad I am your dad \e[0m \n"
 
 printf "\n"
 
